@@ -4,7 +4,7 @@ import Image from "next/image";
 import Comments from "@/components/comments/Comments";
 
 function SinglePage() {
-  return (
+  return ( 
     <div className={styles.container}>
       <div className={styles.infoContainer}>
         <div className={styles.textContainer}>
