@@ -9,7 +9,7 @@ function BlogPage() {
       <div className={styles.content}>
         <CardList />
         <Menu />
-      </div>
+      </div> 
     </div>
   );
 }
